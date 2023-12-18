@@ -1,0 +1,18 @@
+[submodule "iproute2"]
+	path = iproute2
+	url = https://github.com/iproute2/iproute2.git
+[submodule "openwrt/libubox"]
+	path = openwrt/libubox
+	url = https://github.com/openwrt/libubox.git
+[submodule "openwrt/ubox"]
+	path = openwrt/ubox
+	url = https://github.com/openwrt/ubox.git
+[submodule "openwrt/libnl-tiny"]
+	path = openwrt/libnl-tiny
+	url = https://github.com/openwrt/libnl-tiny.git
+[submodule "openwrt/ustream-ssl"]
+	path = openwrt/ustream-ssl
+	url = https://github.com/openwrt/ustream-ssl.git
+[submodule "openwrt/docker"]
+	path = openwrt/docker
+	url = https://github.com/openwrt/docker.git
