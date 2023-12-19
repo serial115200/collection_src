@@ -16,3 +16,12 @@
 [submodule "openwrt/docker"]
 	path = openwrt/docker
 	url = https://github.com/openwrt/docker.git
+[submodule "lwip"]
+	path = lwip
+	url = https://github.com/lwip-tcpip/lwip.git
+[submodule "FreeRTOS-Kernel"]
+	path = FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "openwrt/openwrt"]
+	path = openwrt/openwrt
+	url = https://github.com/openwrt/openwrt.git
