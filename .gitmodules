@@ -28,3 +28,6 @@
 [submodule "hostap"]
 	path = hostap
 	url = git://w1.fi/hostap.git
+[submodule "openwrt/ubus"]
+	path = openwrt/ubus
+	url = https://github.com/openwrt/ubus.git
