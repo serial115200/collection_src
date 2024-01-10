@@ -31,3 +31,6 @@
 [submodule "openwrt/ubus"]
 	path = openwrt/ubus
 	url = https://github.com/openwrt/ubus.git
+[submodule "openwrt/odhcpd"]
+	path = openwrt/odhcpd
+	url = https://github.com/openwrt/odhcpd.git
